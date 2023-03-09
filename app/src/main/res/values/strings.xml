@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Android-13-Notification-Permission-New-Style</string>
+    <string name="get_notified">Get Notified</string>
+    <string name="details_text">All our app keep you updated, with all of the latest events.</string>
+    <string name="i_m_in">I\'m in</string>
+    <string name="skip">Skip</string>
+</resources>
